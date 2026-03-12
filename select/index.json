@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春パズル",
+  "base_artist": "すべての瞬間は君だった。",
+  "createdAt": "2026-03-12T04:53:46.575323Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春パズル",
+      "artist": "すべての瞬間は君だった。",
+      "has_synced": false,
+      "path": "select/pl_01_青春パズル_すべての瞬間は君だった。.txt"
+    }
+  ]
+}
